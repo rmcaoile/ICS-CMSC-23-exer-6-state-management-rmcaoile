@@ -36,6 +36,7 @@ class Checkout extends StatelessWidget {
               )),
               // Total cost
               computeCost(),
+              const Divider(height: 4, color: Colors.black),
               // Pay Now button
               Flexible(
                   child: Center(

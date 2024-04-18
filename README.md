@@ -7,7 +7,7 @@
 **App Description:**  
 This App is a simple shopping cart app with checkout function
 
-**Things I did in the code**
+**Things I did in the code**  
 I added the Checkout.dart in the screen folder. And I tweak some of the already
 existing codes.
 
